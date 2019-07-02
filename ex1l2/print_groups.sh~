@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "god,root,admin,master,nours,bocal$>"
+groups $FT_USER | tr ' ' ','

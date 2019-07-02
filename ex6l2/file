@@ -1,0 +1,15 @@
+total 0
+-rw-r--r--  1 aleksej  staff  0 Jul  2 10:22 file
+-rw-r--r--  1 aleksej  staff  0 Jul  2 10:12 skip.sh
+total 16
+-rw-r--r--  1 aleksej  staff  111 Jul  2 10:25 file
+-rwxrwxrwx  1 aleksej  staff   59 Jul  2 10:25 skip.sh
+-rw-r--r--  1 aleksej  staff    0 Jul  2 10:12 skip.sh~
+total 16
+-rw-r--r--  1 aleksej  staff  283 Jul  2 10:25 file
+-rwxrwxrwx  1 aleksej  staff   59 Jul  2 10:25 skip.sh
+-rw-r--r--  1 aleksej  staff    0 Jul  2 10:12 skip.sh~
+total 16
+-rw-r--r--  1 aleksej  staff  455 Jul  2 10:28 file
+-rwxrwxrwx  1 aleksej  staff   59 Jul  2 10:25 skip.sh
+-rw-r--r--  1 aleksej  staff    0 Jul  2 10:12 skip.sh~
